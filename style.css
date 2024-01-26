@@ -7,17 +7,17 @@
 }
 
 .pmg1 {
-    background-image: url(Image/Parliament_Building_India.jpg);
+    background-image: url(image/01_Parliament_Building_India.png);
     min-height: 100%;
 }
 
 .pmg2 {
-    background-image: url(Image/Pran_Pratishtha_ceremony_of_Shree_Ram_Janmaboomi_Temple.jpg);
+    background-image: url(image/02_Pran_Pratishtha_ceremony_of_Shree_Ram_Janmaboomi_Temple.png);
     min-height: 400px;
 }
 
 .pmg3 {
-    background-image: url(Image/image3.jpg);
+    background-image: url(image/03_image.png);
     min-height: 400px;
 }
 
