@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+    /* color: #262020; */
+
+}
+
+.pmg1 {
+    background-image: url(Image/Parliament_Building_India.jpg);
+    min-height: 100%;
+}
+
+.pmg2 {
+    background-image: url(Image/Pran_Pratishtha_ceremony_of_Shree_Ram_Janmaboomi_Temple.jpg);
+    min-height: 400px;
+}
+
+.pmg3 {
+    background-image: url(Image/image3.jpg);
+    min-height: 400px;
+}
+
+.pmg1,
+.pmg2,
+.pmg3 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.textBg {
+    color: white;
+    padding: 20px;
+}
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section-saffron {
+    background-color: #FF5733;
+    color: #fff;
+}
+
+.section-white {
+    background-color: white;
+    color: blue;
+}
+
+.section-green {
+    background-color: #1A791B;
+    color: #fff;
+}
+
+/* @media (max-width: 500) {
+    .ptext {
+        font-size: 20px;
+    }
+} */
